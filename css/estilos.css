@@ -64,7 +64,7 @@ a:hover{
     border-radius: 5%;
     transition: transform 300ms
 }
-.img-portfolio:hover {
+ .img-portfolio:hover {
     transform: scale(1.2)
 }
 /*se a tela tiver pelo menos 400px vai carregar estes estilos */  
@@ -218,4 +218,4 @@ header .subtitle{font-size: 16px;}
 }
 .sobre a {
     color: cyan;
-} 
+}
